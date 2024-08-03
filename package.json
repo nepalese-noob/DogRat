@@ -16,6 +16,6 @@
     "node-telegram-bot-api": "^0.59.0",
     "socket.io": "^4.5.3",
     "uuid": "^9.0.0",
-    "@slack/web-api": "^6.8.1"  // Added dependency
+    "@slack/web-api": "^6.8.1"
   }
 }
